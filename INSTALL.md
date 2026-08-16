@@ -49,8 +49,8 @@ beta has not. To continue:
 1. Click **More info**
 2. Click **Run anyway**
 
-If you would rather not, that is a fair decision — tell whoever sent you the
-file and wait for a signed version.
+If you would rather not, that is a fair decision — email
+**chitima.tatenda@gmail.com** and wait for a signed version.
 
 ---
 
@@ -152,7 +152,7 @@ When something breaks, note:
 - what happened instead
 - the date and time
 
-Send that to whoever gave you the app. A photo of the screen is worth a lot.
+Send that to **chitima.tatenda@gmail.com**. A photo of the screen is worth a lot.
 
 **Your records are not sent with a bug report.** Nothing leaves the computer
 unless you export it and hand it over yourself.

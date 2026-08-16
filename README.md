@@ -48,7 +48,7 @@ Complete instructions — backing up, the worker portal, voice messages — are 
 
 Things will be rough in places, and finding them is the point. If something
 breaks, note what you were doing, what you expected, and what happened instead,
-and send it to whoever gave you the app. A photo of the screen is worth a lot.
+and email **chitima.tatenda@gmail.com**. A photo of the screen is worth a lot.
 
 ---
 
